@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@remix-run/node": "^2.15.0",
+    "@remix-run/node": "^2.16.5",
     "@remix-run/react": "^2.15.0",
     "@remix-run/router": "^1.21.0",
     "firebase": "^11.0.2",
