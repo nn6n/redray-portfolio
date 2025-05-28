@@ -13,7 +13,7 @@
     "@remix-run/node": "^2.15.0",
     "@remix-run/react": "^2.15.0",
     "@remix-run/router": "^1.21.0",
-    "firebase": "^11.0.2",
+    "firebase": "^11.6.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
